@@ -1,2 +1,3 @@
-# cat-wiki
-Stockpile of shared resources for beings of a nerdly persuasion
+[Actual Wiki Link](https://github.com/not-napoleon/cat-wiki/wiki)
+
+(sorry for the confusion)
